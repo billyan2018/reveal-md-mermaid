@@ -1,5 +1,5 @@
 # reveal-md-mermaid
-A simple [reveal-md](https://github.com/webpro/reveal-md) plugin to support [mermaid](https://mermaid.live/edit) diagram
+A simple [reveal-md](https://github.com/webpro/reveal-md) plugin to support [mermaid](https://mermaid.live/edit) diagrams
 
 ## Usage
 
