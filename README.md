@@ -10,4 +10,6 @@ Put `reveal-mermaid.js` somewhere, and use it together with mermaid.js in the `r
 }
 ```
 
+Check [here](https://github.com/webpro/reveal-md/issues/102#issuecomment-692494366) on how to use plugin
+
 
